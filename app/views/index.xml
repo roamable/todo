@@ -1,5 +1,15 @@
 <Alloy>
-	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, World</Label>
+	<Window>
+		<View id="formContainer">
+			
+		</View>
+		<View id="listContainer">
+			
+		</View>
+		<View id="rule1" class="rule" />
+		<View id="rule2" class="rule" />
+		<View id="bar" />
+		<View id="toolbar">
+		</View>	
 	</Window>
 </Alloy>

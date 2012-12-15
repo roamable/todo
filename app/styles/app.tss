@@ -1,0 +1,14 @@
+Window: { 
+  backgroundColor: '#afafaf',
+  navBarHidden: true,
+  exitOnClose: true
+},
+
+Label: {
+	color: '#000000'
+},
+
+".dottedLine": {
+	
+	
+}
