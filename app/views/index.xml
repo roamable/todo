@@ -3,6 +3,9 @@
 		<View id="formContainer">
 			<Require src="form" />
 		</View>
+		<View id="listContainer">
+			<Require src="list" />
+		</View>
 		<View id="rule1" class="rule" />
 		<View id="rule2" class="rule" />
 		<View id="bar" />

@@ -3,6 +3,11 @@
 	height: '55dp'
 },
 
+'#listContainer': {
+    top: '71dp',
+    bottom: '44dp'	
+},
+
 "#rule1": {
   left: '45dp'	
 },
