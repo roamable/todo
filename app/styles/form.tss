@@ -1,0 +1,23 @@
+".container": {
+	backgroundColor: "#d7d7d7"
+},
+
+TextField: {
+    right:'5dp',
+    top:'5dp',
+    bottom:'5dp',
+    left:'60dp',
+    font: {
+        fontSize:'18dp'
+    },
+},
+
+"#toggle": {
+	left: '0dp',
+	width: '45dp',
+	font: {
+		fontSize: '10dp'
+	},
+	textAlign: 'center',
+	opacity: 0
+}

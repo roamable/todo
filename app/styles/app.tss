@@ -1,5 +1,5 @@
 Window: { 
-  backgroundColor: '#afafaf',
+  backgroundColor: '#dfdfdf',
   navBarHidden: true,
   exitOnClose: true
 },
@@ -9,6 +9,9 @@ Label: {
 },
 
 ".dottedLine": {
-	
-	
+  bottom: 0,
+  height: '1dp',
+  backgroundImage: '/dots.png',
+  backgroundRepeat: true,
+  opacity: 0.7
 }

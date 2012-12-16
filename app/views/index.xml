@@ -1,15 +1,10 @@
 <Alloy>
 	<Window>
 		<View id="formContainer">
-			
-		</View>
-		<View id="listContainer">
-			
+			<Require src="form" />
 		</View>
 		<View id="rule1" class="rule" />
 		<View id="rule2" class="rule" />
 		<View id="bar" />
-		<View id="toolbar">
-		</View>	
 	</Window>
 </Alloy>
