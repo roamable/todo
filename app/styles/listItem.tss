@@ -1,5 +1,26 @@
-".container": {
-	backgroundColor: "green",
-	height: '50dp',
-	border: '1dp'
+Label: {
+  color: '#a9a9a9'
+},
+
+'#container': {
+  height: '55dp'
+},
+
+'#check': {
+  left: 0,
+  opacity: 0.3,
+  width: '45dp',
+  textAlign: 'center',
+  font: {
+  	fontSize: '20dp'
+  }	
+},
+
+'#del': {
+  left: '-45dp',
+  width: '45dp',
+  textAlign: 'center',
+  font: {
+  	fontSize: '20dp'
+  }	
 }

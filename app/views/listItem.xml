@@ -1,5 +1,7 @@
 <Alloy>
-	<View class="container">
-		<View class="dottedLine" />
+	<View id="container">
+		<Label id="check" class="dim" text="✔"/>
+	    <Label id="del" text="✖"/>
+	    <View class="dottedLine"/>
 	</View>
 </Alloy>
