@@ -1,0 +1,16 @@
+<Alloy>
+	<Toolbar id="container">
+		<Items>
+			<TabbedBar id="tabs">
+				<Labels>
+					<Label>Active</Label>
+					<Label>All</Label>
+				</Labels>
+			</TabbedBar>
+			<FlexSpace />
+			<Label id="count">No tasks!</Label>
+			<FlexSpace />	
+			<Button id="clear">Clear complete</Button>
+		</Items>
+	</Toolbar>
+</Alloy>

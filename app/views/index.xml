@@ -9,5 +9,8 @@
 		<View id="rule1" class="rule" />
 		<View id="rule2" class="rule" />
 		<View id="bar" />
+		<View id="toolbar">
+			<Require src="toolbar" />
+		</View>
 	</Window>
 </Alloy>

@@ -8,6 +8,11 @@
     bottom: '44dp'	
 },
 
+'#toolbar': {
+    bottom: 0,
+    height: '44dp'		
+},
+
 "#rule1": {
   left: '45dp'	
 },
